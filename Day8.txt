@@ -1,0 +1,3 @@
+New repository has been created on GitHub and cloned it to our local machine
+Made some changes by creating this file in the repository, Committed this to the repository using Git
+Pushed the changes back to the repository on GitHub
